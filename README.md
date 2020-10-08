@@ -7,7 +7,7 @@ Learning a bit of almost everything cool in software
 - Bot Development
 
 💬 Ask me about :
-- Computer Vision, Flutter, Data Science, Web Dev, Linux ricing(If you know what I mean)
+- Computer Vision, Flutter, Data Science, Web Dev, 🐧 🍚(If you know what I mean)
 
 📫 Reach me at : kshivendu1@gmail.com
 
