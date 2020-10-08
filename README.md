@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Kumar Shivendu
+Learning a bit of almost everything cool in software
 
 🔭 I’m currently working on projects involving :
 - Flutter
