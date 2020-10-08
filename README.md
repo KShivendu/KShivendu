@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Kumar Shivendu
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kshivendu.visitor-badge)
 
 🔭 I’m currently working on projects involving :
 - Flutter
@@ -10,6 +9,8 @@
 - Computer Vision, Flutter, Data Science, Web Dev 
 
 📫 Reach me at : kshivendu1@gmail.com
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kshivendu.visitor-badge)
 
 <!--
 **KShivendu/KShivendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
