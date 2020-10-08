@@ -11,7 +11,7 @@ Learning a bit of almost everything cool in software
 
 📫 Reach me at : kshivendu1@gmail.com
 
-⚡️ Fun fact: I'm a huge fan of Harry Potter 
+⚡️ Fun fact: Είσαι αρκετά περίεργος. Συνεχίστε!
 
 **Back-end**
 
