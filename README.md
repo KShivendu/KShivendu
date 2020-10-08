@@ -4,7 +4,7 @@ Learning a bit of almost everything cool in software
 🔭 I’m currently working on projects involving :
 - Flutter
 - Recommendation system
-- Python
+- Bot Development
 
 💬 Ask me about :
 - Computer Vision, Flutter, Data Science, Web Dev, Linux ricing(If you know what I mean)
