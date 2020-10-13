@@ -13,6 +13,9 @@ Learning a bit of almost everything cool in software
 
 ⚡️ Fun fact: Είσαι αρκετά περίεργος. Συνεχίστε!
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kshivendu.visitor-badge)
+
+<!--
 **Back-end**
 
 <code><img height="30" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
@@ -53,9 +56,8 @@ Learning a bit of almost everything cool in software
 <code><img height="30" src="https://img.icons8.com/color/2x/nginx.png"></code>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kshivendu.visitor-badge)
 
-<!--
+--
 **KShivendu/KShivendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" />
 
