@@ -11,7 +11,9 @@ Learning a bit of almost everything cool in software
 
 📫 Reach me at : kshivendu1@gmail.com
 
+<!--
 ⚡️ Fun fact: Είσαι αρκετά περίεργος. Συνεχίστε!
+-->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kshivendu.visitor-badge)
 
