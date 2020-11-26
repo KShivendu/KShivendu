@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Kumar Shivendu from India 🇮🇳
-Learning a bit of almost everything cool in software
+Learning a bit of almost everything in software
 
 🔭 I’m currently working on projects involving :
 - Flutter
