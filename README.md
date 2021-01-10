@@ -7,7 +7,7 @@ Learning to build software byte by byte
 - Bot Development
 
 💬 Ask me about :
-- Computer Vision, Flutter, Data Science, Web Dev, 🐧 🍚(If you know what I mean)
+- Full Stack Dev, Data Science, Flutter, Computer Vision, 🐧 🍚(If you know what I mean)
 
 📫 Reach me at : kshivendu1@gmail.com
 
