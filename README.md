@@ -13,10 +13,10 @@ Learning to build software byte by byte
 
 <!--
 ⚡️ Fun fact: Είσαι αρκετά περίεργος. Συνεχίστε!
--->
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kshivendu.visitor-badge)
-
+-->
 <!--
 **Back-end**
 
