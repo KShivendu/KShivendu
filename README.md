@@ -2,9 +2,9 @@
 Learning to build software byte by byte
 
 🔭 I’m currently working on projects involving :
-- Flutter
-- Recommendation system
-- Bot Development
+- React
+- Django
+- Docker and AWS
 
 💬 Ask me about :
 - Full Stack Dev, Data Science, Flutter, Computer Vision, 🐧 🍚(If you know what I mean)
