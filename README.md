@@ -1,5 +1,4 @@
 ### Hi there 👋 I'm Kumar Shivendu from India 🇮🇳
-Learning to build software byte by byte
 
 🔭 I’m currently working on projects involving :
 - React
