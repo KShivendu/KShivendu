@@ -8,7 +8,7 @@
 💬 Ask me about :
 - Full Stack Dev, Data Science, Flutter, Computer Vision, 🐧 🍚(If you know what I mean)
 
-🌐 Website : https://kshivendu.vercel.app/
+🌐 Website : https://krshivendu.ml
 
 📫 Reach me at : kshivendu1@gmail.com
 
