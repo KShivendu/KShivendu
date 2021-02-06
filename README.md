@@ -10,7 +10,7 @@
 
 🌐 Website : https://krshivendu.ml
 
-📫 Reach me at : kshivendu1@gmail.com
+📫 Reach me at : shivendu@iitbhilai.ac.in
 
 <!--
 
