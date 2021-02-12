@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kumar Shivendu from India 🇮🇳
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> I'm Kumar Shivendu from India 🇮🇳
 
 🔭 I’m currently working on projects involving :
 - React
