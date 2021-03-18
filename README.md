@@ -21,9 +21,9 @@
 ### About Me :
 
 🔭 I’m currently working on projects involving :
-- React
 - Django
-- Docker and AWS
+- AWS
+- Elasticsearch
 
 💬 Ask me about :
 - Full Stack Dev, Data Science, Flutter, Computer Vision, 🐧 🍚(If you know what I mean)
