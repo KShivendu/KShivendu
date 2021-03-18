@@ -27,7 +27,7 @@
  
 📫 Reach me at : shivendu@iitbhilai.ac.in
 
-👨‍💼 LinkedIn : https://www.linkedin.com/in/kshivendu/ 
+👨🏻‍💼 LinkedIn : https://www.linkedin.com/in/kshivendu/ 
 
 <!--
 
