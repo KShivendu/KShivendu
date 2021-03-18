@@ -1,14 +1,8 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> I'm Kumar Shivendu from India 🇮🇳
 
-<a href="https://www.linkedin.com/in/kshivendu/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
 <!-- <a href="https://twitter.com/kunalstwt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
-<a href="mailto:shivendu@iitbhilai.ac.in">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
 <!-- <a href="https://www.youtube.com/channel/UCfv8cds8AfIM3UZtAWOz6Gg">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a> -->
@@ -31,8 +25,10 @@
 🌐 Website : https://krshivendu.ml
 
 👉 I am exclusively looking for a startup with a vision I believe in so that we can accelerate each other's growth ! 🚀
-
+ 
 📫 Reach me at : shivendu@iitbhilai.ac.in
+
+🙋‍♂️ LinkedIn : https://www.linkedin.com/in/kshivendu/ 
 
 <!--
 
