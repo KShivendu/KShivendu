@@ -15,8 +15,8 @@
 
 🔭 I’m currently working on projects involving :
 - React and Django
-- AWS
-- Elasticsearch
+- Designing secure AWS architecture 
+- Speeding up Elasticsearch
 
 💬 Ask me about :
 - Full Stack Dev, Data Science, Flutter, Computer Vision, 🐧 🍚(If you know what I mean)
