@@ -21,13 +21,14 @@
 💬 Ask me about :
 - Full Stack Dev, Data Science, Flutter, Computer Vision, 🐧 🍚(If you know what I mean)
 
-🌐 Website : https://krshivendu.ml
+🌐 Portfolio : https://krshivendu.ml
 
 👉 I am exclusively looking for a startup with a vision I believe in so that we can accelerate each other's growth ! 🚀
- 
-📫 Reach me at : shivendu@iitbhilai.ac.in
 
-👨🏻‍💼 LinkedIn : https://www.linkedin.com/in/kshivendu/ 
+ Reach me at :
+- 📫 shivendu@iitbhilai.ac.in
+- 👨🏻‍💼 https://www.linkedin.com/in/kshivendu/ 
+
 
 <!--
 
