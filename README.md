@@ -21,7 +21,7 @@
 ### About Me :
 
 🔭 I’m currently working on projects involving :
-- Django
+- React and Django
 - AWS
 - Elasticsearch
 
