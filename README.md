@@ -28,6 +28,8 @@
 💬 Ask me about :
 - Full Stack Dev, Data Science, Flutter, Computer Vision, 🐧 🍚(If you know what I mean)
 
+I am exclusively looking for a startup with a vision I believe in so that we can accelerate each other's growth !🚀
+
 🌐 Website : https://krshivendu.ml
 
 📫 Reach me at : shivendu@iitbhilai.ac.in
