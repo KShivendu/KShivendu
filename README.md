@@ -26,7 +26,7 @@
 👉 I am exclusively looking for a startup with a vision I believe in so that we can accelerate each other's growth ! 🚀
 
  Reach me at :
-- 📫 shivendu@iitbhilai.ac.in
+- 📫  shivendu@iitbhilai.ac.in
 - 👨🏻‍💼 https://www.linkedin.com/in/kshivendu/ 
 
 
