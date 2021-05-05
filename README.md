@@ -15,7 +15,7 @@
 
 🔭 I’m currently working on projects involving :
 - React and Django
-- Designing secure AWS architecture 
+- Playing with GPT3
 - Speeding up Elasticsearch
 
 💬 Ask me about :
