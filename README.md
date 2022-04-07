@@ -14,12 +14,12 @@
 ### About Me :
 
 🔭 I’m currently working on the following:
-- Things related to UPI (Heart of Indian FinTech) and Platform Team at [FamPay (YC 19)](https://fampay.in/)
+- Building open source authentication at [SuperTokens (YC 20)](https://github.com/SuperTokens/)
 - Mentoring for GSoC at [Software Heritage](https://github.com/SoftwareHeritage/)
 - Building [Gongo](https://github.com/KShivendu/Gongo) (Golang) and [Activity-Tracker](https://github.com/OpenLake/Activity-Tracker) (JS) on weekends.
 
 💬 Ask me about :
-- Full Stack Dev, Data Science, Flutter, Computer Vision, 🐧 🍚(If you know what I mean)
+- Open source, Backend development, Big data, Data Science, and 🐧 🍚 (If you know what I mean)
 
 🌐 Portfolio : https://kshivendu.dev
 
