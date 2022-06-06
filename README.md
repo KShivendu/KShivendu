@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> I'm Kumar Shivendu from India 🇮🇳
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px" height="20px"> I'm Kumar Shivendu from India 🇮🇳
 
 <!-- <a href="https://twitter.com/kunalstwt">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
