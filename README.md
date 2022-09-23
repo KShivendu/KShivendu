@@ -21,7 +21,7 @@
 💬 Ask me about :
 - Open source, Backend development, Big data, Data Science, and 🐧 🍚 (If you know what I mean)
 
-🌐 Portfolio : https://kshivendu.dev
+🌐 Blog : [https://blog.kshivendu.dev](https://blog.kshivendu.dev?ref=gh)
 
 👉 I am exclusively looking for a startup with a vision I believe in so that we can accelerate each other's growth ! 🚀
 
