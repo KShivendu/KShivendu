@@ -18,8 +18,8 @@
 - Mentoring for GSoC at [Software Heritage](https://github.com/SoftwareHeritage/)
 - Building [Gongo](https://github.com/KShivendu/Gongo) (Golang) and [Activity-Tracker](https://github.com/OpenLake/Activity-Tracker) (JS) on weekends.
 
-💬 Ask me about :
-- Open source, Backend development, Big data, Data Science, and 🐧 🍚 (If you know what I mean)
+💬 Ask me about:
+- Open source, Information Retrieval (Search engines, query langauges, and databases in general), DevTools, and Generative AI, and Linux ricing (🐧🍚)
 
 🌐 Blog : [https://blog.kshivendu.dev](https://blog.kshivendu.dev?ref=gh)
 
