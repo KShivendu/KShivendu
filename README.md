@@ -19,7 +19,7 @@
 - Building [Gongo](https://github.com/KShivendu/Gongo) (Golang) and [Activity-Tracker](https://github.com/OpenLake/Activity-Tracker) (JS) on weekends.
 
 💬 Ask me about:
-- Open source, Information Retrieval (Search engines, query langauges, and databases in general), DevTools, and Generative AI, and Linux ricing (🐧🍚)
+- Open source, Information Retrieval (search engines, query langauges, and databases), DevTools, and Generative AI, and Linux ricing (🐧🍚)
 
 🌐 Blog : [https://blog.kshivendu.dev](https://blog.kshivendu.dev?ref=gh)
 
