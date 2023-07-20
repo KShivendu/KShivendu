@@ -14,16 +14,16 @@
 ### About Me :
 
 🔭 I’m currently working on the following:
-- Building open source authentication at [SuperTokens (YC 20)](https://github.com/SuperTokens/)
-- Mentoring for GSoC at [Software Heritage](https://github.com/SoftwareHeritage/)
-- Building [Gongo](https://github.com/KShivendu/Gongo) (Golang) and [Activity-Tracker](https://github.com/OpenLake/Activity-Tracker) (JS) on weekends.
+- Building Auth Devtools at [SuperTokens (YC 20)](https://github.com/SuperTokens/)
+- Contributing to [Software Heritage](https://github.com/SoftwareHeritage/) organization.
+- Dabbling with LLMs and Vector DBs on [weekends](https://twitter.com/KShivendu_/status/1676645119771185152?s=20).
 
 💬 Ask me about:
-- Open source, Information Retrieval (search engines, query langauges, and databases), DevTools, and Generative AI, and Linux ricing (🐧🍚)
+- DevTools, Information Retrieval (search engines, query languages, LLMs, and databases) and [Linux ricing](https://www.linkedin.com/in/kshivendu/overlay/1635456303123/single-media-viewer/?profileId=ACoAACv_7CkBRorZDlQAZ49wQ3thw3_OrE7tVvg) (🐧🍚)
 
-🌐 Blog : [https://blog.kshivendu.dev](https://blog.kshivendu.dev?ref=gh)
+🌐 Blog : [https://blog.kshivendu.dev](https://kshivendu.dev?ref=gh)
 
-👉 I am exclusively looking for a startup with a vision I believe in so that we can accelerate each other's growth ! 🚀
+👉 I'm open to engineering and devrel roles startups in the DevTools or the information retrieval space! 🚀
 
  Reach me at :
 - 📫  hello@kshivendu.dev
