@@ -19,7 +19,7 @@
 - Dabbling with LLMs and Vector DBs on [weekends](https://twitter.com/KShivendu_/status/1676645119771185152?s=20).
 
 💬 Ask me about:
-- DevTools, Information Retrieval (search engines, query languages, LLMs, and databases) and [Linux ricing](https://www.linkedin.com/in/kshivendu/overlay/1635456303123/single-media-viewer/?profileId=ACoAACv_7CkBRorZDlQAZ49wQ3thw3_OrE7tVvg) (🐧🍚)
+- DevTools, Information Retrieval (search engines, query languages, LLMs, and databases) and [Linux ricing](https://www.kshivendu.dev/blog/ricing) (🐧🍚)
 
 🌐 Blog : [https://blog.kshivendu.dev](https://kshivendu.dev?ref=gh)
 
