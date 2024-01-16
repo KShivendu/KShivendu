@@ -19,11 +19,11 @@
 - Building fun side projects on weekends like [this](https://twitter.com/KShivendu_/status/1676645119771185152?s=20) and [this](https://www.kshivendu.dev/blog/quantified-self)
 
 💬 Ask me about:
-- DevTools, Information Retrieval (search engines, query languages, LLMs, and databases), Community building, and [Linux ricing](https://www.kshivendu.dev/blog/ricing) (🐧🍚)
+- Information Retrieval (search engines, query languages, LLMs, and databases), Performance, RAG, and data scraping/mining
 
 🌐 Blog : [https://blog.kshivendu.dev](https://kshivendu.dev?ref=gh)
 
-👉 I'm open to engineering and devrel roles startups in the DevTools and/or the information retrieval space! 🚀
+👉 I'm open to engineering roles startups in the DevTools or the Information Retrieval space! 🚀
 
  Reach me at :
 - 📫 mail@kshivendu.dev
