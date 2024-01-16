@@ -25,9 +25,9 @@
 
 🌐 Blog : [https://blog.kshivendu.dev](https://kshivendu.dev?ref=gh)
 
-👉 I'm open to engineering roles startups in the DevTools or the Information Retrieval space! 🚀
+👉 Reach out to me if you need help with RAG, vector search, or recommendation systems 🔍
 
- Reach me at :
+Find me at:
 - 📫 mail@kshivendu.dev
 - 👨🏻‍💼 https://www.linkedin.com/in/kshivendu/ 
 - 🐦 [@KShivendu_](https://twitter.com/KShivendu_)
