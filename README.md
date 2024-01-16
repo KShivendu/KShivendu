@@ -19,7 +19,9 @@
 - Building side projects like [this](https://www.kshivendu.dev/blog/quantified-self) for fun.
 
 💬 Ask me about:
-- Information Retrieval (search engines, query languages, LLMs, and databases), Performance, RAG, and data scraping/mining
+- Information Retrieval (search engines, query languages, vector search, RAG, and databases)
+- Software Performance
+- Data scraping/mining
 
 🌐 Blog : [https://blog.kshivendu.dev](https://kshivendu.dev?ref=gh)
 
