@@ -19,7 +19,7 @@
 - Building side projects like [this](https://www.kshivendu.dev/blog/quantified-self) for fun.
 
 💬 Ask me about:
-- Information Retrieval (search engines, query languages, vector search, RAG, and databases)
+- Information Retrieval (especially vector search and RAG)
 - Software Performance
 - Data scraping/mining
 
